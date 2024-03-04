@@ -1,7 +1,7 @@
 {
   "name": "testteatest",
-  "version": "1.0.0",
-  "description": "Description of your package. Source code available on [GitHub](https://github.com/rosewestern/RosewNPM.git).",
+  "version": "3.0.0",
+  "description": "tea test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
